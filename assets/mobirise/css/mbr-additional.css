@@ -1103,9 +1103,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rLVJaZSBme {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 15px;
+  padding-bottom: 75px;
+  background-color: #f8f97a;
 }
 .cid-rLVJaZSBme h2 {
   text-align: left;
@@ -1165,6 +1165,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rLVJaZSBme H2 {
+  color: #232323;
+}
+.cid-rLVJaZSBme H4 {
   color: #232323;
 }
 .cid-rLJ4ggUXvS {
